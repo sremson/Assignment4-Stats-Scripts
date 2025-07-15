@@ -39,8 +39,10 @@ The mean for Females VIQ is 109.45 and the mean for Males VIQ is 115.0. The mean
 
 - some of this data line is outdated. I had to look up how to translate this to an updated line of code, which involved using scatter_matrix instead of plotting
 - i also made the csv file a readable dataframe to be able to make my plots
-- i am having an extremely hard time getting this code to work. the plot is simply not showing up the way i want it to.
-- i'm not entirely sure why the MRI/Height/Weight plot is not working the way the second plot is. For now i'm going to ignore it and move on.
+- i am having an extremely hard time getting this code to work. the plot is simply not showing up the way i want it to- it appears to show up as the full scatter matrix for half a second before just turning into the one box.
+- i'm not entirely sure why the MRI/Height/Weight plot is not working the way the second plot is. after a ton of troubleshooting i've still been unable to figure it out, so I'm moving on.
+
+
 
 ## Hypothesis testing
 
